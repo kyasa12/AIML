@@ -7,4 +7,4 @@ lab6:https://github.com/kyasa12/AIML/blob/main/Lab06-AIML%20(1).ipynb
 lab7:https://github.com/kyasa12/AIML/blob/main/AIML_LAB_07.ipynb
 lab8:https://github.com/kyasa12/AIML/blob/main/AIML%20LAB_08.ipynb
 lab9:https://github.com/kyasa12/AIML/blob/main/Lab9.ipynb
-lab10:
+lab10:https://github.com/kyasa12/AIML/blob/main/Lab10-AIML.ipynb
